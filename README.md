@@ -14,9 +14,6 @@ This is a simple multi-file Java Calculator application that supports various ma
 1. Open terminal or command prompt.
 2. Navigate to the project directory.
 3. Compile all `.java` files:
-
-bash javac Main.java
-    java Main
       
 
 **Method Descriptions-:**
